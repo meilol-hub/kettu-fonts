@@ -4,7 +4,7 @@
   "fonts": [
     {
       "name": "Roboto Regular",
-      "path": "https://github.com/google/fonts/raw/main/apache/roboto/static/Roboto-Regular.ttf"
+      "main": "https://github.com/google/fonts/raw/main/apache/roboto/static/Roboto-Regular.ttf"
     }
   ]
 }
