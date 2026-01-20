@@ -1,9 +1,10 @@
 {
-  "name": "Inter",
+  "spec": 1,
+  "name": "Google Sans like",
   "fonts": [
     {
-      "name": "Inter Regular",
-      "path": "https://github.com/rsms/inter/releases/latest/download/Inter-Regular.ttf"
+      "name": "Roboto Regular",
+      "path": "https://github.com/google/fonts/raw/main/apache/roboto/static/Roboto-Regular.ttf"
     }
   ]
 }
