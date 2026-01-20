@@ -1,9 +1,9 @@
 {
-  "name": "Google Sans Flex",
+  "name": "Inter",
   "fonts": [
     {
-      "name": "Google Sans Flex Variable",
-      "path": "https://fonts.gstatic.com/s/googlesansflex/v1/variable/GoogleSansFlex[GRAD,wght,opsz].ttf"
+      "name": "Inter Regular",
+      "path": "https://github.com/rsms/inter/releases/latest/download/Inter-Regular.ttf"
     }
   ]
 }
