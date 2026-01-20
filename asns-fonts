@@ -1,10 +1,10 @@
 {
   "spec": 1,
   "name": "Google Sans like",
-  "fonts": [
-    {
+  "fonts": {
+    "regular": {
       "name": "Roboto Regular",
       "main": "https://github.com/google/fonts/raw/main/apache/roboto/static/Roboto-Regular.ttf"
     }
-  ]
+  }
 }
